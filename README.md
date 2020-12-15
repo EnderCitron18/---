@@ -1,2 +1,2 @@
-# ---
-Я сенат, нет сената, этот проект верит в возрождение матушки россии и ее славы через советский союз
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images 
